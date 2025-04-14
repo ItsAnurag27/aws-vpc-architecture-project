@@ -1,4 +1,4 @@
-# aws-vpc-architecture-project
+
 # 🌩️ AWS Scalable VPC Architecture – First Cloud Project
 
 Welcome to my first end-to-end AWS infrastructure deployment project. This repository documents the process of designing and deploying a **highly available, secure, and scalable application environment** using core AWS services within a custom-built VPC.
